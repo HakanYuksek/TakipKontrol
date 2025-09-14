@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TakipKontrol/static/css/main.23a0130a.css",
-    "main.js": "/TakipKontrol/static/js/main.e0c288a6.js",
+    "main.js": "/TakipKontrol/static/js/main.b02cced4.js",
     "static/js/453.6ab0b78f.chunk.js": "/TakipKontrol/static/js/453.6ab0b78f.chunk.js",
     "index.html": "/TakipKontrol/index.html",
     "main.23a0130a.css.map": "/TakipKontrol/static/css/main.23a0130a.css.map",
-    "main.e0c288a6.js.map": "/TakipKontrol/static/js/main.e0c288a6.js.map",
+    "main.b02cced4.js.map": "/TakipKontrol/static/js/main.b02cced4.js.map",
     "453.6ab0b78f.chunk.js.map": "/TakipKontrol/static/js/453.6ab0b78f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23a0130a.css",
-    "static/js/main.e0c288a6.js"
+    "static/js/main.b02cced4.js"
   ]
 }
