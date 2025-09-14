@@ -106,8 +106,8 @@ function App() {
       <h2>Instagram’dan Takipçi/Following Verilerini Alma</h2>
       <ol>
         <li>Instagram hesabına web veya mobil uygulama üzerinden giriş yap.</li>
-        <li>Ayarlar → Güvenlik → Verilerini İndir sekmesine git.</li>
-        <li>“İndirme Talep Et” butonuna tıkla ve e-posta adresini gir.</li>
+        <li>Ayarlar ve Hareketler → Hesaplar Merkezi → Bilgilerin ve İzinlerin → Bilgilerini dışa aktar sekmesine git.</li>
+        <li>“İndirme Talep Et” butonuna tıkla.</li>
         <li>Instagram sana bir e-posta ile veri dosyalarını (HTML) gönderecek.</li>
         <li>Bu dosyadan Followers.html ve Following.html dosyalarını indirdikten sonra TakipKontrol uygulamasına yükleyerek analiz yapabilirsin.</li>
       </ol>
