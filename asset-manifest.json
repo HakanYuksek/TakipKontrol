@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TakipKontrol/static/css/main.23a0130a.css",
-    "main.js": "/TakipKontrol/static/js/main.b02cced4.js",
-    "static/js/453.6ab0b78f.chunk.js": "/TakipKontrol/static/js/453.6ab0b78f.chunk.js",
-    "index.html": "/TakipKontrol/index.html",
-    "main.23a0130a.css.map": "/TakipKontrol/static/css/main.23a0130a.css.map",
-    "main.b02cced4.js.map": "/TakipKontrol/static/js/main.b02cced4.js.map",
-    "453.6ab0b78f.chunk.js.map": "/TakipKontrol/static/js/453.6ab0b78f.chunk.js.map"
+    "main.css": "/static/css/main.23a0130a.css",
+    "main.js": "/static/js/main.da2b160e.js",
+    "static/js/453.6ab0b78f.chunk.js": "/static/js/453.6ab0b78f.chunk.js",
+    "index.html": "/index.html",
+    "main.23a0130a.css.map": "/static/css/main.23a0130a.css.map",
+    "main.da2b160e.js.map": "/static/js/main.da2b160e.js.map",
+    "453.6ab0b78f.chunk.js.map": "/static/js/453.6ab0b78f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23a0130a.css",
-    "static/js/main.b02cced4.js"
+    "static/js/main.da2b160e.js"
   ]
 }
